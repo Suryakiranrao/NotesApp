@@ -13,14 +13,14 @@ This is Web application for maintaining Online Notes.
 * Bootstrap
 * Jquery
 
-The Online Notes App has benn created with all the following features:<br\>
+The Online Notes App has benn created with all the following features:<br/>
 
-1.Secure Sign up system with email validation using modern encryption methods.<br\>
-
-
+1.Secure Sign up system with email validation using modern encryption methods.<br/>
 
 
-2.Advance Login system using:<br\>
+
+
+2.Advance Login system using:<br/>
 
  i)Remember me functionality:This enables the user to avoid entering login details,<br/> When they come back to the site if they closed the browser without Logging out.<br/>
    It is built using advanced encryption methods.<br/>
