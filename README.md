@@ -29,10 +29,10 @@ The Online Notes App has benn created with all the following features:
 
 
 3.Notes App contains following features:<br/>
-  1)Notes Creating/Editing.<br/>
-  2)Notes Deleting.<br/>
-  3)Notes Feature the last update date and time.<br/>
-  4)Notes are ordered by last changed.<br/>
+  &nbsp1)Notes Creating/Editing.<br/>
+  &nbsp2)Notes Deleting.<br/>
+  &nbsp3)Notes Feature the last update date and time.<br/>
+  &nbsp4)Notes are ordered by last changed.<br/>
 
 4.There is also a Profile page where the user is able to change th username, password and even the email address using a secure system
 5.The app is optimised to run on mobile devices especially with full screen bootstap modals.
