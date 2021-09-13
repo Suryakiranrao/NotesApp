@@ -15,7 +15,7 @@ This is Web application for maintaining Online Notes.
 
 The Online Notes App has benn created with all the following features:
 
-1. Secure Sign up system with email validation using modern encryption methods.
+1.Secure Sign up system with email validation using modern encryption methods.
 
 
 
@@ -24,6 +24,7 @@ The Online Notes App has benn created with all the following features:
 
 
 2.Advance Login system using:
+
      i)Remember me functionality:This enables the user to avoid entering login details, When they come back to the site if they closed the browser without Logging out.
       It is built using advanced encryption methods.
      ii)Forget Password functionality:This is done by sending an email to the user email with a link to reset their password.It also uses Encryption methods for a highly secure           application.
