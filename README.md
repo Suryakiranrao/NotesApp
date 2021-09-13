@@ -22,7 +22,7 @@ The Online Notes App has benn created with all the following features:<br/>
 
 2.Advance Login system using:<br/>
 
-  &nbsp;&nbsp;&nbsp;i)Remember me functionality:This enables the user to avoid entering login details,When they come back to the site<br/>if they closed the browser without  &nbsp;&nbsp;&nbsp;&nbsp;Logging out.It is built using advanced encryption methods.<br/>
+  &nbsp;&nbsp;&nbsp;i)Remember me functionality:This enables the user to avoid entering login details,When they come back to the site<br/>&nbsp;&nbsp;&nbsp;&nbsp;if they closed the browser without  Logging out.It is built using advanced encryption methods.<br/>
   &nbsp;&nbsp;&nbsp;ii)Forget Password functionality:This is done by sending an email to the user email with a link to reset their password.<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;It also uses Encryption methods for a highly ecure application.<br/>
 
