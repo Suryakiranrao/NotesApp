@@ -22,10 +22,9 @@ The Online Notes App has benn created with all the following features:<br/>
 
 2.Advance Login system using:<br/>
 
- i)Remember me functionality:This enables the user to avoid entering login details,<br/> When they come back to the site if they closed the browser without Logging out.<br/>
-   It is built using advanced encryption methods.<br/>
- ii)Forget Password functionality:This is done by sending an email to the user email with a link to reset their password.<br/>
-    It also uses Encryption methods for a highly ecure application.<br/>
+  &nbsp;&nbsp;&nbsp;i)Remember me functionality:This enables the user to avoid entering login details,When they come back to the site<br\>if they closed the browser without  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Logging out.It is built using advanced encryption methods.<br/>
+  &nbsp;&nbsp;&nbsp;ii)Forget Password functionality:This is done by sending an email to the user email with a link to reset their password.<br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It also uses Encryption methods for a highly ecure application.<br/>
 
 
 3.Notes App contains following features:<br/>
@@ -34,5 +33,5 @@ The Online Notes App has benn created with all the following features:<br/>
   &nbsp;&nbsp;&nbsp;3)Notes Feature the last update date and time.<br/>
   &nbsp;&nbsp;&nbsp;4)Notes are ordered by last changed.<br/>
 
-4.There is also a Profile page where the user is able to change th username, password and even the email address using a secure system.<br\>
-5.The app is optimised to run on mobile devices especially with full screen bootstap modals.<br\>
+4.There is also a Profile page where the user is able to change th username, password and even the email address using a secure system.<br/>
+5.The app is optimised to run on mobile devices especially with full screen bootstap modals.<br/>
