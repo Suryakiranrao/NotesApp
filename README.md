@@ -13,7 +13,7 @@ This is Web application for maintaining Online Notes.
 * Bootstrap
 * Jquery
 
-![alt text](./images_Notes App/1.jpg)
+![alt text](./images_Notes%20App/1.JPG)
 
 
 The Online Notes App has benn created with all the following features:<br/>
