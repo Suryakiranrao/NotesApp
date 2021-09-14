@@ -56,7 +56,6 @@ The Online Notes App has benn created with all the following features:<br/>
 
 ![alt text](./images_Notes%20App/9.JPG)
 
-5.The app is optimised to run on mobile devices especially with full screen bootstap modals.<br/>4
-
+5.The app is optimised to run on mobile devices especially with full screen bootstap modals.<br/>
 ![alt text](./images_Notes%20App/10.jpeg)
 
