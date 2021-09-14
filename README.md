@@ -12,10 +12,15 @@ This is Web application for maintaining Online Notes.
 * JavaScript
 * Bootstrap
 * Jquery
+
 ![alt text](./images_Notes App/1.jpg)
+
+
 The Online Notes App has benn created with all the following features:<br/>
 
 1.Secure Sign up system with email validation using modern encryption methods.<br/>
+
+
 ![alt text](./images_Notes App/4.JPG)
 
 
